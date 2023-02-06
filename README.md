@@ -25,5 +25,10 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+##Screenshot
+<img width="732" alt="Screen Shot 2023-02-06 at 3 55 31 PM" src="https://user-images.githubusercontent.com/113576524/217088511-6cce3f04-bf7f-4351-806c-1a7efabfb37b.png">
+<img width="754" alt="Screen Shot 2023-02-06 at 3 56 04 PM" src="https://user-images.githubusercontent.com/113576524/217088548-7d38d0b3-83d6-4c48-bb51-5355fe637c35.png">
+
+
 ## Github Link
 https://github.com/joshfaith24/Read-Me-Generator/blob/main/README.md
